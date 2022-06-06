@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mirasys
-- 👀 I’m interested in ... .NET, Java, Python, Android and PHP applications. 
-- 🌱 I’m currently learning ... Android and PHP. 
+- 👀 I’m interested in ...Java, Python & Android 
+- 🌱 I’m currently learning ... Android and Python
 - 💞️ I’m looking to collaborate on ... interactive web applications. 
 - 📫 How to reach me ... koneta4net@gmail.com
 
